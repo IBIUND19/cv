@@ -117,6 +117,12 @@ p {
   margin-left: 30px;
 }
 
+.languages {
+  max-width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
